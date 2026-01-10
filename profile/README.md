@@ -7,7 +7,7 @@
 - `Wiki` dove vengono messe le guide relativo al progetto_
 
 ## PROGETTI PROPOSTI
-- `pagina web` - pagina static usando react riguardo la pagina github ITS-DEVLAB
+- `pagina web` - pagina static usando react riguardo la pagina github DEVLABSBT
 - `console app/app mobile` - per monitorare le attivita' in palestra questo usando Spectre.Console/MAUI usando il C#
 
 ## CONTRIBUTO
