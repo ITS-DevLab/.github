@@ -1,4 +1,4 @@
-# ITS DEVLAB
+# DEVLAB SBT (📍San Benedetto del Tronto, Italy)
 ## PANORAMICA dei TAB dentro ai Repository
 - `Code` dove si trovano i progetti
 - `Issues` dove si trovano tutte le attivita' da svolgere riguardo ad un progetto (saranno principalmente macro task) al inizio poi andremo a spezzettarli in micro task
